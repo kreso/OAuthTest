@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPoint", "TestPoint.csproj", "{121E05CF-80D0-4667-9247-EC965C29ADA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthSignatureService", "..\OAuthSignatureService\OAuthSignatureService.csproj", "{15B3E0D2-6217-493A-A690-158C497F5318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthSignatureContract", "OAuthSignatureContract\OAuthSignatureContract.csproj", "{F4DB183C-444E-4192-9A50-9BDF6A8E3BC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthLibrary", "..\OAuthLibrary\OAuthLibrary.csproj", "{66DD8F66-8CA6-4D89-959D-988FB2E88678}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +19,18 @@ Global
 		{121E05CF-80D0-4667-9247-EC965C29ADA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{121E05CF-80D0-4667-9247-EC965C29ADA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{121E05CF-80D0-4667-9247-EC965C29ADA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4DB183C-444E-4192-9A50-9BDF6A8E3BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4DB183C-444E-4192-9A50-9BDF6A8E3BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4DB183C-444E-4192-9A50-9BDF6A8E3BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4DB183C-444E-4192-9A50-9BDF6A8E3BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66DD8F66-8CA6-4D89-959D-988FB2E88678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66DD8F66-8CA6-4D89-959D-988FB2E88678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66DD8F66-8CA6-4D89-959D-988FB2E88678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66DD8F66-8CA6-4D89-959D-988FB2E88678}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

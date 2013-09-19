@@ -4,9 +4,9 @@ using System.Collections.Generic;
 using System.Text;
 using System.Web;
 
-namespace TestPoint
+namespace OAuthLibrary
 {
-	public class OAuthBase {
+	internal class OAuthBase {
 
         /// <summary>
         /// Provides a predefined set of algorithms that are supported officially by the protocol

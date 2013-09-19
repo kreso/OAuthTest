@@ -6,5 +6,8 @@
         ImsGlobal,
         OAuthTest,
         D2L,
+        Hugh,
+        ConsumerCertTest,
+        Quickie
     }
 }
